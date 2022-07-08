@@ -1,5 +1,5 @@
 # Awesome Rust Crates
-A curated list of Rust awesome 3rd party Crates and resources for Rust developer.
+A curated list of Rust awesome crates and resources for Rust developer.
 
 # Crates
 ## tools
