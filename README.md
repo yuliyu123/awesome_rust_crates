@@ -1,7 +1,7 @@
-# Awesome Rust libs
-A curated list of Rust awesome 3rd party libs and resources for Rust developer.
+# Awesome Rust Crates
+A curated list of Rust awesome 3rd party Crates and resources for Rust developer.
 
-# libs
+# Crates
 ## tools
 * [clap](https://github.com/clap-rs/clap): Create your command-line parser, with all of the bells and whistles, declaratively or procedurally.
 * [dotenv](https://github.com/bkeepers/dotenv): Shim to load environment variables from .env into ENV in development.
